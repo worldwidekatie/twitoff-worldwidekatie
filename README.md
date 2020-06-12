@@ -1,8 +1,7 @@
-# twitoff-14
+# worldwidekatie-twitoff
+Can be found at https://worldwidekatie-twitoff.herokuapp.com
 
 ## Installation
-
-TODO: clone the repo
 
 ## Setup
 
