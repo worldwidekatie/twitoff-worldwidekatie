@@ -1,1 +1,1 @@
-web: gunicorn twitoff-worldwidekatie:APP -t 120
+web: gunicorn run:server
