@@ -8,7 +8,7 @@ __pycache__/
 
 # Stuff I'm putting in here
 /migrations
-*.db
+# *.db
 
 # Distribution / packaging
 .Python
