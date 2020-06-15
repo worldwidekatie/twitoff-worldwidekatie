@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Stuff I'm putting in here
+/migrations
+*.db
+
 # Distribution / packaging
 .Python
 build/
